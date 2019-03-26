@@ -8,7 +8,7 @@ or anything else that makes results not match, but isn't data-integral).
 
 Usage
 -----
-./download_checker -p <host1> -s <host2> -f paths.txt
+./download_checker -p host1.example.com -s host2.example.com -f paths.txt
 
 Where paths.txt looks as follows:
 
